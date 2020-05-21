@@ -6,7 +6,7 @@ function App() {
     return (
       <>
       <div className="container">
-       <h1 className="title">React Search Movies</h1>
+      <h1 className="title">Search Movies</h1>
        <SearchMovies/>
       </div>
         
